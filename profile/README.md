@@ -17,7 +17,7 @@ React, Nextjs, React Native
 
 ## その他 SaaS, PaaS
 
-Stripe, PAY.JP, PayPay, Vercel, Heroku
+Stripe, PAY.JP, PayPay, Vercel, Heroku, Terraform, Sentry, Github Actions
 
 ## Coming soon,
 
