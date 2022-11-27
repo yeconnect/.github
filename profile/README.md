@@ -37,4 +37,4 @@ Rust, Flutter
   - Django Baby (https://django.baby)
   - 企業様のDXサポート
 
-- 従業員数:5人(業務委託・アルバイト含む)
+- 従業員数:10人(業務委託・アルバイト含む)
